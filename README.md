@@ -1,4 +1,4 @@
-# Gui app
+# CPS 510 Patient DBMS
 
 ## Run the app
 
